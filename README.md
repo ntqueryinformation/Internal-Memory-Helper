@@ -30,3 +30,9 @@ Reading
 -Float
 
 -Int64
+
+
+
+
+
+Usage Example:  WriteFloat(baseaddress + 0ffset, 5.0f) | int test = ReadInt(baseaddress + 0ffset)
